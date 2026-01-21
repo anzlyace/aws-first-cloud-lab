@@ -41,7 +41,7 @@ Through this project, I learned how:
 ## Screenshots
 
 ### EC2 Instance Running
-![EC2 Dashboard](screenshots/ec2-dashboards.png)
+![EC2 Dashboard](screenshots/ec2-dashboard.png)
 
 ### SSH Connection to the Instance
 ![SSH Terminal](screenshots/ssh-terminal.png)
