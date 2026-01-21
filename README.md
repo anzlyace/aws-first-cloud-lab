@@ -57,4 +57,5 @@ Through this project, I learned how:
 
 ---
 
-## Outcome By the end of this lab, I successfully hosted a webpage on AWS and confirmed that it was only accessible after correctly configuring the security rules. This project helped me better understand how cloud infrastructure, networking, and security work together.
+## Outcome 
+By the end of this lab, I successfully hosted a webpage on AWS and confirmed that it was only accessible after correctly configuring the security rules. This project helped me better understand how cloud infrastructure, networking, and security work together.
